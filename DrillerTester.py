@@ -13,6 +13,7 @@ files = {
         "memmove":{"cnt":17, "extra":True} ,
         "memmove_int":{"cnt":10, "extra":False} ,
         "strcpy":{"cnt":17, "extra":True} ,
+        "strcat":{"cnt":17, "extra":True} ,
         }
 
 
