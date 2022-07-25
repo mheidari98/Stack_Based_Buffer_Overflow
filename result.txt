@@ -84,3 +84,23 @@ strcpy :
 	[16] last_crash = 679
 	[17] last_crash = 632
 ----------------------------------------
+########################################
+strcat : 
+	[1] last_crash = 892
+	[2] last_crash = 661
+	[3] last_crash = 861
+	[4] last_crash = 720
+	[5] last_crash = 641
+	[6] last_crash = 728
+	[7] last_update = 901
+	[8] last_crash = 623
+	[9] last_crash = 629
+	[10] last_crash = 604
+	[11] last_crash = 429
+	[12] last_crash = 174
+	[13] last_crash = 756
+	[14] last_crash = 725
+	[15] last_crash = 839
+	[16] last_crash = 698
+	[17] last_crash = 647
+----------------------------------------
