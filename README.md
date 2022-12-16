@@ -21,5 +21,5 @@ for extract driller runtime
 ```
 for more options :
 ```bash
-python Wuzzer.py -h
+./DrillerTester.py -h
 ```
